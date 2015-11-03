@@ -1,0 +1,16 @@
+Partlist exported from C:/Users/akhe/Documents/development/hardware_zeus/Ethernet/ethernet module/snow_expansion/433_RX_TX/expansion_rxtx_reva.sch at 2011-10-03 14:25:01
+
+Part Value        Device               Package    Description                Description              Supplier   Partnumber             Price
+C1   10uF         CAP1210              1210       Capacitor                  Tantalelektrolyt         Digikey    478-3874-1-ND          1,45 
+C2   22uF         CAP1210              1210       Capacitor                  Tantallyt                Digiket    478-1681-1-ND          3,84 
+C3   100n         C-EUC0805            C0805      CAPACITOR, European symbol 100nF Cheramic capacitor Bejoken    522526                 0,07 
+D1   MBRA210LT3G  DIODESMA             SMA-DIODE  Diode                      Schotty diod             Digikey    MBRA210LT3GOSCT-ND     5,79 
+H1   Antenna      SPECIAL_DRILL_0.1000 PAD_0.1000 Special drills                                                                             
+JP1               FE12-2               FE12-2     FEMALE HEADER                                       Digikey    SAM1212-50-ND          6,18 
+L1   2.2uH        INDUCTOR1313         1_3X1_3    Inductors                  Inductor                 Digikey    308-1524-2-ND          4,47 
+R1   1M           RESISTOR0805         0805       Resistor                   Resistor                 Bejoken    454742                 0.011
+R2   95.3K        RESISTOR0805         0805       Resistor                   Resistor                 Digikey    311-95.3KCRTR-ND       0,019
+R3   30.9K        RESISTOR0805         0805       Resistor                   Resistor                 Digikey    RMCF0805FT30K9TR-ND    0,018
+U$1  TX433_MODULE TX433_MODULE         FOUR       Elektrokit                 Sändare 433 MHz          Electrokit 41004048               44,5 
+U$2  RX433_MODULE RX433_MODULE         FOUR       Elektrokit                 ottagare 433 MHz         Electrokit 41004048               44,5 
+U1   LTC3426      LTC3426              SOT23-6                               Boost converter          Digikey    LTC3426ES6#TRMPBFCT-ND 29,96
