@@ -4454,8 +4454,8 @@ such as Odessa 5V</text>
 <attribute name="VALUE" x="142.24" y="83.82" size="1.778" layer="96"/>
 </instance>
 <instance part="GND5" gate="1" x="127" y="76.2"/>
-<instance part="+3V1" gate="G$1" x="86.36" y="157.48"/>
-<instance part="P+1" gate="1" x="170.18" y="154.94"/>
+<instance part="+3V1" gate="G$1" x="86.36" y="160.02"/>
+<instance part="P+1" gate="1" x="170.18" y="170.18"/>
 <instance part="IC1" gate="1" x="218.44" y="71.12"/>
 <instance part="C4" gate="G$1" x="233.68" y="60.96"/>
 <instance part="C5" gate="G$1" x="193.04" y="63.5" smashed="yes">
@@ -4552,7 +4552,7 @@ such as Odessa 5V</text>
 <pinref part="C1" gate="G$1" pin="1"/>
 <pinref part="+3V1" gate="G$1" pin="+3V3"/>
 <pinref part="SJ1" gate="1" pin="1"/>
-<wire x1="86.36" y1="147.32" x2="86.36" y2="154.94" width="0.1524" layer="91"/>
+<wire x1="86.36" y1="147.32" x2="86.36" y2="157.48" width="0.1524" layer="91"/>
 <wire x1="121.92" y1="147.32" x2="86.36" y2="147.32" width="0.1524" layer="91"/>
 <junction x="86.36" y="147.32"/>
 </segment>
@@ -4576,7 +4576,7 @@ such as Odessa 5V</text>
 <pinref part="C2" gate="G$1" pin="1"/>
 <pinref part="P+1" gate="1" pin="+5V"/>
 <pinref part="SJ1" gate="1" pin="2"/>
-<wire x1="170.18" y1="147.32" x2="170.18" y2="152.4" width="0.1524" layer="91"/>
+<wire x1="170.18" y1="147.32" x2="170.18" y2="167.64" width="0.1524" layer="91"/>
 <wire x1="132.08" y1="147.32" x2="170.18" y2="147.32" width="0.1524" layer="91"/>
 <junction x="170.18" y="147.32"/>
 </segment>
