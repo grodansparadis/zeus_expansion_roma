@@ -2,12 +2,12 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/grodansparadis/development/zeus_expansion_roma/eagle/roma_rev_c.brd
 
-Start at      : 16:40:45 (2015-12-30)
-End at        : 16:40:45 (2015-12-30)
+Start at      : 21:44:42 (2015-12-30)
+End at        : 21:44:42 (2015-12-30)
 Elapsed time  : 00:00:00
 
 Signals       :    19   RoutingGrid: 50 mil  Layers: 2
-Connections   :    59   predefined:  59 ( 20 Vias )
+Connections   :    61   predefined:  60 ( 20 Vias )
 
 Router memory :   7708
 
@@ -18,7 +18,7 @@ Number of Ripups  :         0         0         0         0         0
 max. Level        :         0         0         0         0         0
 max. Total        :         0         0         0         0         0
 
-Routed            :         0         0         0         0         0
+Routed            :         1         1         1         1         1
 Vias              :         0         0         0         0         0
 Resolution        :   100.0 %   100.0 %   100.0 %   100.0 %   100.0 %
 
